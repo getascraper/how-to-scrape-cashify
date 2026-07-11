@@ -1,0 +1,38 @@
+{
+  "name": "how-to-scrape-cashify",
+  "version": "1.0.0",
+  "description": "Scrape used device resale and buyback prices from Cashify India. Get city-specific quotes for phones, laptops, tablets, and watches with storage variants, minimum and maximum prices, repair cost, and image links. Export to Excel, Google Sheets, CSV, or JSON.",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "apify",
+    "apify-actor",
+    "data-extraction",
+    "price-monitoring",
+    "ecommerce",
+    "resale-marketplace",
+    "cashify",
+    "cashify-scraper",
+    "cashify-data",
+    "cashify-prices",
+    "used-phones",
+    "buyback-prices",
+    "mobile-resale",
+    "india",
+    "trade-in",
+    "electronics-pricing",
+    "storage-variants",
+    "repair-cost",
+    "recommerce",
+    "device-valuation"
+  ],
+  "author": "Devansh-365",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "apify-client": "^2.12.0",
+    "dotenv": "^16.5.0"
+  }
+}
